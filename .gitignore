@@ -1,3 +1,5 @@
 # macOS files
 .DS_Store
 
+# offline jQuery
+jquery-1.6.1.min.js
